@@ -18,7 +18,7 @@ separates main routine that it reads characters from another routine for handle 
 ## Run
 
 ```console
-yeganeh@ubuntu:~$ go build
-yeganeh@ubuntu:~$ ./Atrovan_Q2
+$ go build
+$ ./Atrovan_Q2
 ```
-![Demo](demo/finalVideo.gif)
+![finalVideo](https://user-images.githubusercontent.com/56772565/89578238-1849f880-d847-11ea-971a-a24c23d97f07.gif)
